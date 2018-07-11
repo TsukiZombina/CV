@@ -1,0 +1,8 @@
+#Ignore pattern
+
+cv.*
+
+#Except
+
+!cv.pdf
+!cv.tex
